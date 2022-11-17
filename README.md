@@ -1,2 +1,1 @@
-# Regis-Test-Base
-Initial Regis Experience
+# Regis Test Demo AR UX
